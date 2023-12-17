@@ -7,4 +7,6 @@ catboost
 xgboost
 dill
 pickle-mixin
+flask
+dataclasses
 #-e .
